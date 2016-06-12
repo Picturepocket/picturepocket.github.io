@@ -26,9 +26,9 @@ there are definitely some properties you should add!*/
         margin: 0px auto;
     }
     nav {
-        line-height:;
+        line-height:normal;
         background-color: none;
-        width:125px;
+        width:200px;
         display: inline-block;
         vertical-align: top;
 
@@ -41,6 +41,7 @@ there are definitely some properties you should add!*/
     margin:auto;
 
     }
+
     a {
         color:;
     }
