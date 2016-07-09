@@ -1,0 +1,53 @@
+/* unvisited link */
+a:link {
+    color: orange;
+}
+
+/* visited link */
+a:visited {
+    color: darkorange;
+}
+
+/* mouse over link */
+a:hover {
+    color: orange;
+}
+
+/* selected link */
+a:active {
+    color: darkorange;
+}
+
+h2{
+	color: darkorange;
+	font-family: 'Quicksand';
+	font-size: 700;
+
+}
+h3{
+	color: darkorange;
+	font-family: 'Quicksand';
+	font-size: 400;
+	}
+h4{
+	color: black;
+	font-family: 'Quicksand';
+	font-size: 400;
+	}
+form {
+	font-family: 'Quicksand';
+	font-size: 400;
+}
+p{
+	font-family: 'Quicksand';
+	font-size: 400;
+}
+em {
+	font-weight: bold;
+	font-style: normal;
+}
+
+nav {
+	font-family: 'Quicksand';
+	font-size: 400;
+}
